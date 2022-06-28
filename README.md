@@ -25,7 +25,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <br>
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3>Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
