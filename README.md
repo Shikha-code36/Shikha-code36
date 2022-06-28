@@ -23,10 +23,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <br>
 <br>
 
-Completed Bachelor of Technology (BTech).
 
-
-<div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
