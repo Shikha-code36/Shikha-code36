@@ -2,10 +2,12 @@
 
 Have exposure♛ to be a part in building cool A I products 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in Technologies✍️ as Python, Flask, Django, JavaScript, HTML, CSS, Bootstrap, React.js, Git&GitHub, MySQL, C++, AWS and Docker for web and window-based applications.
 
-Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I love solving coding problems on leetcode, hackerearth etc..
+Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. 
+
+Also, I love solving coding problems on leetcode, hackerearth etc..
 As you can see I have few repos based on my leetcode solutions and also Data Structure and Algorithm which you can follow.
 
-Also, I play a role as a Tech Panel 📈 at IBM apart from my existing role and responsibilities in the project. Getting an opportunity to interact with many people and sharing thoughts out of the box🗃.
+
 
 Completed Bachelor of Technology (BTech).
 
