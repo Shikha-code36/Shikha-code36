@@ -34,7 +34,9 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 
 </p>
 
-LinkedIn - https://www.linkedin.com/in/36-shikha-pandey/ <br/> 
+- 🎯 Portfolio website: [Portfolio](https://shikha-code36.github.io/shikhapandey.github.io/)
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/36-shikha-pandey/)
 
 <!--
 **Shikha-code36/Shikha-code36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
