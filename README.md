@@ -27,7 +27,8 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <br>
 <br>
 
-##Show some ❤️; by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories!
+
 
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
