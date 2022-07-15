@@ -1,10 +1,4 @@
  <h2 align="center">नमस्ते (Namaste)🙏🏻, I am  Shikha Pandey!</h2>
- 
- <p align="right">
-<h3>Profile Views :-</h3> <img
-    src="https://komarev.com/ghpvc/?username=Shikha-code36&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Shikha-code36" />
-</p>
 
 Have exposure♛ to be a part in building cool A I products 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in Technologies✍️ as Python, Flask, Django, JavaScript, HTML, CSS, Bootstrap, React.js, Git&GitHub, MySQL, C++, AWS and Docker for web and window-based applications.
 
@@ -44,7 +38,6 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <p align="center"><img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shikha-code36&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Shikha-code36" bg_color=#808080/></p>
 <p align="left"><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shikha-code36&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="Shikha-code36"  /><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Shikha-code36" /></p>
 
-[![Shikha Pandey' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shikha-code36&custom_title=Abhishek%20Singh's%20Contribution%20Graph&theme=dark&bg_color=0d1117&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Shikha-code36)
 
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
