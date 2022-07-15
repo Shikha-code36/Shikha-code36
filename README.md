@@ -1,4 +1,10 @@
  <h2 align="center">नमस्ते (Namaste)🙏🏻, I am  Shikha Pandey!</h2>
+ 
+ <p align="right">
+<h3>Profile Views :-</h3> <img
+    src="https://komarev.com/ghpvc/?username=Shikha-code36&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Shikha-code36" />
+</p>
 
 Have exposure♛ to be a part in building cool A I products 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in Technologies✍️ as Python, Flask, Django, JavaScript, HTML, CSS, Bootstrap, React.js, Git&GitHub, MySQL, C++, AWS and Docker for web and window-based applications.
 
