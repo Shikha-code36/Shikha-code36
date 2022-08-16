@@ -4,7 +4,7 @@ Have exposure♛ to be a part in building cool A I products 💻. Experienced wi
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. 
 
-Also, I love solving coding problems on leetcode, hackerearth etc..
+Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
 As you can see I have few repos based on my leetcode solutions and also Data Structure and Algorithm which you can follow.
 
 ### Languages and Tools: 
