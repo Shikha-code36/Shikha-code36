@@ -49,11 +49,10 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&hide_border=true&theme=dark"></a></p>
 </details>
 <details>
-  <summary>Profile Views 👁️</summary>
+  <summary><b> Profile Views 👁️</b></summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Shikha-code36&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
-<br/>
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
 <p align="left" dir="auto">
@@ -65,6 +64,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/36-shikha-pandey/)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 **Shikha-code36/Shikha-code36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
