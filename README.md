@@ -35,8 +35,6 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <br>
 
 ### Show some ❤️ by starring some of the repositories!
-<br>
-<br>
 
 ## 💻 GitHub Stats
 <p align="center">
