@@ -44,7 +44,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 </p>
 
 <details>	
-  <summary><b>🔥 Github Streaks</b></summary><br>
+  <summary><b> Github Streaks 🔥</b></summary><br>
   <p align="center">
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&hide_border=true&theme=dark"></a></p>
 </details>
