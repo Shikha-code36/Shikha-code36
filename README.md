@@ -35,8 +35,9 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <br>
 
 ### Show some ❤️ by starring some of the repositories!
-<br/>
-<br/>
+<br>
+<br>
+
 ## 💻 GitHub Stats
 <p align="center">
   <a href="#"><img alt="Shikha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Shikha-code36&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
@@ -49,7 +50,6 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
   <p align="center">
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&hide_border=true&theme=dark"></a></p>
 </details>
-<br/>
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
