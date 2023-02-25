@@ -54,20 +54,20 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
     <!-- github stats end -->
 </div>
 <br/>
+<br/>
+<!-- github trophy start -->
+<div align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shikha-code36&theme=algolia&no-bg=true&no-frame=true">
+</div>
+<!-- github trophy end -->
+
+<br/>
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Shikha-code36&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
-<br/>
-### Github Trophy 🏆
-<!-- github trophy start -->
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shikha-code36&theme=algolia&no-bg=true&no-frame=true">
-</div>
-<!-- github trophy end -->
-
 <br/>
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
