@@ -50,7 +50,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 </details>
 <details>
   <summary><b> Profile Views 👁️</b></summary>
-  <br/>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=Shikha-code36&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 <br>
