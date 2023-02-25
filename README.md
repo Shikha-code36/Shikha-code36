@@ -38,7 +38,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <br/>
 <br/>
 <!-- my github stats text start -->
-<div align="center"> 
+<div align="Left"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=220&height=40&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <!-- my github stats text end -->
