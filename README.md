@@ -37,36 +37,23 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 ### Show some ❤️ by starring some of the repositories!
 <br/>
 <br/>
-<!-- my github stats text start -->
-<div align="Left"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=220&height=40&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="my github stats svg" />
-</div>
-<!-- my github stats text end -->
+## 💻 GitHub Stats
+<p align="center">
+  <a href="#"><img alt="Shikha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Shikha-code36&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Shikha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikha-code36&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
+<!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
+</p>
 
-<br/>
-
-<div align="center">
-    <!-- github streak start -->
-    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="Shikha-code36" />
-    <!-- github streak end -->
-    <!-- github stats start -->
-    <img width=396 src="https://github-readme-stats-mu-jet.vercel.app/api?username=Shikha-code36&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
-    <!-- github stats end -->
-</div>
-<br/>
-<br/>
-<!-- github trophy start -->
-<div align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shikha-code36&theme=algolia&no-bg=true&no-frame=true">
-</div>
-<!-- github trophy end -->
-
+<details>	
+  <summary><b>🔥 Github Streaks</b></summary><br>
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&hide_border=true&theme=dark"></a></p>
+</details>
 <br/>
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Shikha-code36&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
 </details>
 <br/>
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
