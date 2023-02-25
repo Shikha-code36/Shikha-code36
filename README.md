@@ -61,6 +61,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 
 </details>
 <br/>
+### Github Trophy 🏆
 <!-- github trophy start -->
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Shikha-code36&theme=algolia&no-bg=true&no-frame=true">
