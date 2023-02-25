@@ -53,11 +53,11 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
   <br>
   <img src="https://komarev.com/ghpvc/?username=Shikha-code36&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
-<br>
-## 🏆 My Trophies <br /> 
+
+## 🏆 My Trophies <br > 
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=Shikha-code36&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  <br /><br />
+  <br ><br >
 
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 <br>
