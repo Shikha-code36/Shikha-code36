@@ -35,7 +35,15 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <br>
 
 ### Show some ❤️ by starring some of the repositories!
-<h3 align="left">Statistical Data :-</h3>
+
+<!-- my github stats text start -->
+<div align="center"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=220&height=40&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="my github stats svg" />
+</div>
+<!-- my github stats text end -->
+
+<br/>
+
 <div align="center">
     <!-- github streak start -->
     <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="Shikha-code36" />
@@ -44,7 +52,6 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
     <img width=396 src="https://github-readme-stats-mu-jet.vercel.app/api?username=Shikha-code36&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
     <!-- github stats end -->
 </div>
-
 <br/>
 <details>
   <summary>Profile Views 👁️</summary>
