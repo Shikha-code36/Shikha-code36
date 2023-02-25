@@ -36,17 +36,25 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 
 ### Show some ❤️ by starring some of the repositories!
 <h3 align="left">Statistical Data :-</h3>
-<br>
-<p align="left"><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Shikha-code36" /></p>
+<div align="center">
+    <!-- github streak start -->
+    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="Shikha-code36" />
+    <!-- github streak end -->
+    <!-- github stats start -->
+    <img width=396 src="https://github-readme-stats-mu-jet.vercel.app/api?username=Shikha-code36&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
+    <!-- github stats end -->
+</div>
 
+<br/>
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Shikha-code36&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
-<br>
+<br/>
 ## GitHub Profile Trophy 🏆
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
