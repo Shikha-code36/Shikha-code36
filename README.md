@@ -46,7 +46,10 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 
 </details>
 
-
+<br>
+### GitHub Profile Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shikha-code36&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
 <p align="left" dir="auto">
