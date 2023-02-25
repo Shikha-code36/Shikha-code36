@@ -35,7 +35,8 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <br>
 
 ### Show some ❤️ by starring some of the repositories!
-
+<br/>
+<br/>
 <!-- my github stats text start -->
 <div align="center"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=220&height=40&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="my github stats svg" />
@@ -60,11 +61,13 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 
 </details>
 <br/>
-## GitHub Profile Trophy 🏆
+<!-- github trophy start -->
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shikha-code36&theme=algolia&no-bg=true&no-frame=true">
+</div>
+<!-- github trophy end -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
+<br/>
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
 <p align="left" dir="auto">
