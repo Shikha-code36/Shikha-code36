@@ -39,6 +39,14 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <br>
 <p align="left"><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Shikha-code36" /></p>
 
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Shikha-code36&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
+
+
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
 <p align="left" dir="auto">
