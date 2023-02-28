@@ -1,6 +1,6 @@
  <h2 align="center">नमस्ते (Namaste)🙏🏻, I am  Shikha Pandey!</h2>
 
-Have exposure♛ to be a part in building cool A I products 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in Technologies✍️ as Python, Flask, Django, JavaScript, HTML, CSS, Bootstrap, React.js, Git & GitHub, MongoDB, MySQL, C++, AWS and Docker for web and window-based applications.
+Have exposure♛ to be a part in building cool AI products 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in Technologies✍️ as Python, Flask, Django, JavaScript, HTML, CSS, Bootstrap, React.js, Git & GitHub, MongoDB, MySQL, C++, AWS and Docker for web and window-based applications.
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. 
 
