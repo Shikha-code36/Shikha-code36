@@ -1,6 +1,6 @@
  <h2 align="center">नमस्ते (Namaste)🙏🏻, I am  Shikha Pandey!</h2>
  
-I have extensive experience in the information technology and services industries, with a strong track record of contributing to the development of cutting-edge AI products 💻. My technical skills ✍️ include expertise in Python, Flask, Django, JavaScript, HTML, CSS, Bootstrap, React.js, Git & GitHub, MongoDB, MySQL,Redis, C++, AWS, Docker, RabbitMQ which I have used to build both web and window-based applications. With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
+I have extensive experience in the information technology and services industries, with a strong track record of contributing to the development of cutting-edge AI products 💻. My technical skills ✍️ include expertise in Python, Flask, Django, JavaScript, HTML, CSS, Bootstrap, React.js, C++ Git & GitHub, MongoDB, MySQL,Redis, AWS, Docker, RabbitMQ which I have used to build both web and window-based applications. With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
 
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. 
@@ -16,6 +16,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
@@ -23,7 +24,6 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white)
