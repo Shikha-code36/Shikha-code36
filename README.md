@@ -31,10 +31,6 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ### Show some ❤️ by starring some of the repositories!
 
