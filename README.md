@@ -28,9 +28,6 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white)
 
-<br>
-<br>
-<br>
 
 ### Show some ❤️ by starring some of the repositories!
 
