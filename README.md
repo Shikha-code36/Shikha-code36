@@ -12,6 +12,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
