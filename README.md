@@ -12,7 +12,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white)]
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -27,7 +27,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
-[![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=Apache%20Kafka&logoColor=white)]
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=Apache%20Kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white)
 
 
