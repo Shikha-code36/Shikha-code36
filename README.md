@@ -1,6 +1,6 @@
  <h2 align="center">नमस्ते (Namaste)🙏🏻, I am  Shikha Pandey!</h2>
  
-I have extensive experience in the information technology and services industries, with a strong track record of contributing to the development of cutting-edge AI products 💻. My technical skills ✍️ include expertise in Python, Flask, FastAPI, Django, JavaScript, HTML, CSS, Bootstrap, React.js, C++ Git & GitHub, MongoDB, MySQL,Redis, AWS, Docker, Apache Kafka and RabbitMQ which I have used to build both web and window-based applications. With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
+I have extensive experience in the information technology and services industries, with a strong track record of contributing to the development of cutting-edge AI products 💻. My technical skills ✍️ include expertise in Python, Flask, FastAPI, Django, JavaScript, HTML, CSS, Bootstrap, React.js, C++ Git & GitHub, MongoDB, MySQL,Redis, GraphQL AWS, Docker, Apache Kafka and RabbitMQ which I have used to build both web and window-based applications. With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
 
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. 
@@ -14,6 +14,7 @@ As you can see I have few repos based on my leetcode solutions and also Data Str
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
