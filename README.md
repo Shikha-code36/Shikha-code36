@@ -27,6 +27,7 @@ I write blogs as well.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
