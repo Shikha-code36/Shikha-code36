@@ -70,10 +70,15 @@ I write blogs as well.
 
 </p>
 
-- 🎯 Portfolio website: [Portfolio](https://shikha-code36.github.io/shikhapandey.github.io/)
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/36-shikha-pandey/)
+## 🌐 Explore My Work
+- 🎯 Portfolio Website: [Portfolio](https://shikha-code36.github.io/shikhapandey.github.io/)
+- ✍️ Read My Thoughts: Check out my tech articles on [Medium](https://pandeyshikha075.medium.com)
+- 💬 Ask Me Anything: I'm always happy to help! 😊
+- 📬 How to Reach Me: [Let's get in touch!](https://www.linkedin.com/in/36-shikha-pandey/)
 
+## 💡 Additional Insights
+- 🧠 Practicing Algorithms: I enjoy tackling coding challenges on [LeetCode](https://leetcode.com/shikha_pandey/) and [HackerRank](https://www.hackerrank.com/profile/pandeyshikha075) to enhance my problem-solving skills.
+- 📝 Python Library: I created a python library for competitive programmers. Read out & explore the library. Checkout the [documentation](https://pypi.org/project/competitivepython/) .
 <!--
 **Shikha-code36/Shikha-code36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
