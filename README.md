@@ -33,7 +33,10 @@ I write blogs as well.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=Apache%20Kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white)
-
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=Sublime%20Text&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white)
 
 ### Show some ❤️ by starring some of the repositories!
 
