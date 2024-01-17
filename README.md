@@ -1,6 +1,6 @@
  <h2 align="center">नमस्ते (Namaste)🙏🏻, I am  Shikha Pandey!</h2>
  
-I have extensive experience in the information technology and services industries, with a strong track record of contributing to the development of cutting-edge AI products 💻. My technical skills ✍️ include expertise in Python, Flask, FastAPI, Django, JavaScript, HTML, CSS, Bootstrap, React.js, C++, Git & GitHub, MongoDB, SQL, Redis, GraphQL, AWS, Docker, Apache Kafka and RabbitMQ which I have used to build both web and window-based applications. With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
+I have extensive experience in the information technology and services industries, with a strong track record of contributing to the development of cutting-edge AI products 💻. My technical skills ✍️ include expertise in Python, Flask, FastAPI, Django, JavaScript, HTML, CSS, Bootstrap, React.js, C++, Git & GitHub, MongoDB, SQL, Redis, GraphQL, Sockets AWS, Docker, Apache Kafka and RabbitMQ which I have used to build both web and window-based applications. With a demonstrated ability to work collaboratively and deliver results, I am well-positioned to take on new challenges and make valuable contributions to any team.
 
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech.
@@ -66,7 +66,7 @@ I write blogs as well.
 🙋‍♂️ Follow/𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 <br>
 <p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/36-shikha-pandey/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Shikha-code36" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/36-shikha-pandey/" rel="nofollow"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shikha-code36"></a>
 
 </p>
 
