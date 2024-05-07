@@ -71,7 +71,7 @@ I write blogs as well.
 </p>
 
 ## 🌐 Explore My Work
-- 🎯 Portfolio Website: [Portfolio](https://shikha-code36.github.io/shikhapandey.github.io/)
+- 🎯 Portfolio Website: [Portfolio](https://shikhapandey.me/)
 - ✍️ Read My Thoughts: Check out my tech articles on [Medium](https://pandeyshikha075.medium.com)
 - 💬 Ask Me Anything: I'm always happy to help! 😊
 - 📬 How to Reach Me: [Let's get in touch!](https://www.linkedin.com/in/36-shikha-pandey/)
