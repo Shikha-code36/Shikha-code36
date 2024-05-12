@@ -8,7 +8,7 @@ I believe you only grow when you learn.
 
 Also, I love solving coding problems on leetcode, hackerearth etc..
 As you can see I have few repos based on my leetcode solutions and also Data Structure and Algorithm which you can follow.
-I write blogs as well.
+I write blogs as well on medium.
 
 ## Languages and Tools: 
 
