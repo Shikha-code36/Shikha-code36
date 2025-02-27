@@ -50,7 +50,7 @@ I write blogs as well on medium.
 <details>	
   <summary><b> Github Streaks 🔥</b></summary><br>
   <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&hide_border=true&theme=dark"></a></p>
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats-eight.vercel.app/?user=Shikha-code36&hide_border=true&theme=dark"></a></p>
 </details>
 <details>
   <summary><b> Profile Views 👁️</b></summary>
