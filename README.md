@@ -165,21 +165,13 @@ Also, I love solving coding problems on LeetCode, HackerEarth, CodeChef, etc. As
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shikha-code36&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikha-code36&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="49%">
+  <a href="#"><img alt="Shikha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Shikha-code36&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
 </p>
 
 <details>	
   <summary><b>🔥 GitHub Streaks</b></summary><br>
   <p align="center">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shikha-code36&hide_border=true&theme=dark" width="500px">
-  </p>
-</details>
-
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary><br>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shikha-code36&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true">
   </p>
 </details>
 
