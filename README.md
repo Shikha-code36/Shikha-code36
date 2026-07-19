@@ -12,7 +12,7 @@ Also, I love solving coding problems on LeetCode, HackerEarth, CodeChef, etc. As
 
 ### 🚀 What I Do
 
-- 🤖 Build production-ready **GenAI applications** using GPT-4, Claude, and custom LLMs
+- 🤖 Build production-ready **GenAI applications** using GPT, Claude, and custom LLMs
 - 🏗️ Architect **scalable microservices** and **web applications** serving 100,000+ concurrent connections
 - 🔍 Develop **intelligent document understanding systems** with 99%+ accuracy
 - ⚡ Create **real-time data processing pipelines** using Kafka, RabbitMQ, and event-driven architectures
