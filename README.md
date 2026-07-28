@@ -39,7 +39,7 @@ Instead of simulations, FaultLab uses real services, controlled fault injection,
 
 **Tech**
 
-Go • Python • PostgreSQL • Docker • Prometheus • Grafana • OpenTelemetry
+Python • PostgreSQL • Docker • Prometheus • Grafana • OpenTelemetry
 
 ---
 
