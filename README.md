@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer II @ American Express</strong><br>
-  Building AI Infrastructure • Distributed Systems • Performance Engineering
+  Distributed Systems • Databases • Caching • AI Infrastructure
 </p>
 
 <p align="center">
@@ -15,27 +15,44 @@
 
 ## About
 
-I'm a software engineer passionate about understanding how intelligent systems behave under load, fail, recover, and scale.
+I'm a software engineer passionate about building the infrastructure behind modern software systems.
 
-I enjoy building open-source infrastructure, designing reproducible experiments, and publishing engineering insights around AI systems, distributed systems, caching, and performance engineering.
+My interests lie at the intersection of distributed systems, databases, caching, and AI infrastructure. I enjoy designing reproducible experiments to understand how complex systems behave under load, why they fail, and how engineering decisions influence performance and reliability.
 
-I believe the best way to learn is by building ambitious projects that solve real engineering problems.
+Outside of work, I build open-source infrastructure, conduct systems research, and write about the engineering lessons that emerge from those experiments.
 
 ---
 
 # 🚀 Current Work
 
-## FaultLab *(Currently Building)*
+## 🐛 SlimyBug
 
-A laboratory for learning distributed systems through reproducible failure experiments.
+An experimentation platform for distributed systems.
 
-Instead of simulations, FaultLab uses real services, controlled fault injection, and observability to explain behaviors such as:
+SlimyBug exists to help engineers build accurate mental models of distributed systems through controlled, reproducible experiments.
 
-- Retry storms
-- Cascading failures
-- Database latency
-- Connection pool starvation
-- Timeout propagation
+Instead of learning mechanisms like retry amplification, cascading failures, admission control, connection-pool saturation, and overload behavior from production incidents, SlimyBug makes them observable in a controlled environment and turns experimental evidence into trustworthy findings.
+
+Current research includes:
+
+* Database latency propagation
+* Retry amplification
+* Circuit breakers
+* Retry jitter
+* Connection pool capacity
+* Admission control
+* Signal freshness
+* Overload onset
+* Admission deferral
+* Connection pool self-locking
+
+Long-term vision:
+
+* Research-grade experiments
+* Reproducible experimentation methodology
+* Experiment DSL & CLI
+* Evidence-backed engineering findings
+* A learning platform for distributed systems
 
 **Tech**
 
@@ -45,44 +62,45 @@ Python • PostgreSQL • Docker • Prometheus • Grafana • OpenTelemetry
 
 ## 🧠 SmartEvict
 
-A learned semantic cache eviction policy for LLM applications.
+A research project exploring learned semantic cache eviction for LLM applications.
 
-SmartEvict investigates lightweight learned eviction policies for semantic caches using reproducible experiments and real conversational workloads.
+SmartEvict investigates lightweight learned eviction policies using reproducible experiments and real conversational workloads.
 
 ### Resources
 
-- 📦 Repository  
-  https://github.com/Shikha-code36/SmartEvict-Semantic-Cache-Eviction
+📦 Repository
+https://github.com/Shikha-code36/SmartEvict-Semantic-Cache-Eviction
 
-- 📖 Research Artifact (DOI)  
-  https://zenodo.org/records/21643364
+📖 Research Artifact (DOI)
+https://zenodo.org/records/21643364
 
 ---
 
-# 🔬 Interests
+# 🔬 Areas of Interest
 
-- AI Infrastructure
-- Distributed Systems
-- Semantic Caching
-- Databases
-- Performance Engineering
-- Observability
-- LLM Systems
-- Developer Tools
+* Distributed Systems
+* Databases
+* Caching Systems
+* AI Infrastructure
+* Performance Engineering
+* Reliability Engineering
+* LLM Infrastructure
+* Developer Infrastructure
 
 ---
 
 # ✍️ Writing
 
-I enjoy documenting what I build, measure, and learn.
+I enjoy documenting experiments, engineering investigations, and the findings they produce.
 
-Topics include:
+I primarily write about:
 
-- Distributed systems
-- AI infrastructure
-- Semantic caching
-- Performance engineering
-- Software engineering
+* Distributed systems
+* Databases & caching
+* AI infrastructure
+* Performance engineering
+* Reliability engineering
+* Software engineering
 
 📚 Medium
 
@@ -102,7 +120,7 @@ FastAPI • Flask • PostgreSQL • Redis • Kafka • RabbitMQ
 
 ### Infrastructure
 
-Docker • AWS • GCP • Prometheus • Grafana
+Docker • AWS • GCP • Prometheus • Grafana • OpenTelemetry
 
 ### AI
 
@@ -112,29 +130,29 @@ OpenAI • Claude • LangChain • Hugging Face • pgvector
 
 # 🌱 Currently Exploring
 
-- Distributed Systems Internals
-- AI Serving Infrastructure
-- Reliability Engineering
-- Observability
-- OpenTelemetry
-- PostgreSQL
+* Database internals
+* Cache design & eviction algorithms
+* Distributed systems internals
+* AI serving infrastructure
+* Reliability engineering
+* Experimentation frameworks
 
 ---
 
 # 📫 Connect
 
-🌐 Portfolio  
+🌐 Portfolio
 https://pandeyshikha.me/
 
-💼 LinkedIn  
+💼 LinkedIn
 https://www.linkedin.com/in/36-shikha-pandey/
 
-📝 Medium  
+📝 Medium
 https://pandeyshikha075.medium.com
 
-📧 Email  
-shikha.py36@gmail.com
+📧 Email
+[shikha.py36@gmail.com](mailto:shikha.py36@gmail.com)
 
 ---
 
-> **Build systems. Measure them. Understand them. Share what you learn.**
+> **Build systems. Run experiments. Produce evidence. Share findings.**
