@@ -15,144 +15,94 @@
 
 ## About
 
-I'm a software engineer passionate about building the infrastructure behind modern software systems.
+I'm a software engineer focused on the infrastructure behind modern software systems — distributed systems, databases, caching, and AI infrastructure.
 
-My interests lie at the intersection of distributed systems, databases, caching, and AI infrastructure. I enjoy designing reproducible experiments to understand how complex systems behave under load, why they fail, and how engineering decisions influence performance and reliability.
-
-Outside of work, I build open-source infrastructure, conduct systems research, and write about the engineering lessons that emerge from those experiments.
+I like understanding systems from first principles: how they behave under load, why they fail, and how specific engineering decisions trade off performance against reliability. I explore these questions through hands-on open-source contribution, reproducible experiments, and writing.
 
 ---
 
-# 🚀 Current Work
+## 🔧 Systems & Infra Contributions
 
-## 🐛 SlimyBug
+*As of August 2026: 5 merged, 5 in review, across 4 repositories.*
 
-An experimentation platform for distributed systems.
+I contribute correctness, crash-safety, and observability fixes to production cache, database, and search infrastructure.
 
-SlimyBug exists to help engineers build accurate mental models of distributed systems through controlled, reproducible experiments.
+**dragonflydb/dragonfly** — *5 merged*
+Crash prevention, RSS/OOM test stability, cluster slot-migration correctness, RENAME data-loss prevention.
 
-Instead of learning mechanisms like retry amplification, cascading failures, admission control, connection-pool saturation, and overload behavior from production incidents, SlimyBug makes them observable in a controlled environment and turns experimental evidence into trustworthy findings.
+**valkey-io/valkey** — *in review*
+Fixed replica full-resync failing after restart with AOF-only persistence. Fixed an O(class size × string length) DoS in glob pattern matching.
 
-Current research includes:
+**valkey-io/valkey-search** — *in review*
+Fixed stale RDB restore counters causing a permanently inflated index metric.
 
-* Database latency propagation
-* Retry amplification
-* Circuit breakers
-* Retry jitter
-* Connection pool capacity
-* Admission control
-* Signal freshness
-* Overload onset
-* Admission deferral
-* Connection pool self-locking
+**facebook/rocksdb** — *in review*
+Fixed a native memory leak in RocksJava's thread-local comparator buffer handling.
 
-Long-term vision:
-
-* Research-grade experiments
-* Reproducible experimentation methodology
-* Experiment DSL & CLI
-* Evidence-backed engineering findings
-* A learning platform for distributed systems
-
-**Tech**
-
-Python • PostgreSQL • Docker • Prometheus • Grafana • OpenTelemetry
+→ [All pull requests](https://github.com/search?q=author%3AShikha-code36+is%3Apr&type=pullrequests)
 
 ---
 
-## 🧠 SmartEvict
+## 🚀 Current Work
 
-A research project exploring learned semantic cache eviction for LLM applications.
+### 🐛 SlimyBug
+*An experimentation platform for distributed systems.*
 
-SmartEvict investigates lightweight learned eviction policies using reproducible experiments and real conversational workloads.
+SlimyBug makes distributed-systems failure modes — retry amplification, cascading failures, admission control, connection-pool saturation, overload behavior — observable through controlled, reproducible experiments, so they can be studied directly instead of learned from production incidents.
 
-### Resources
+**Current research areas**
+Database latency propagation • Retry amplification • Circuit breakers • Retry jitter • Connection pool capacity • Admission control • Signal freshness • Overload onset • Admission deferral • Connection pool self-locking
 
-📦 Repository
-https://github.com/Shikha-code36/SmartEvict-Semantic-Cache-Eviction
+**Long-term direction**
+Research-grade, reproducible experiment methodology; an experiment DSL & CLI; evidence-backed engineering findings; a learning platform for distributed systems.
 
-📖 Research Artifact (DOI)
-https://zenodo.org/records/21643364
-
----
-
-# 🔬 Areas of Interest
-
-* Distributed Systems
-* Databases
-* Caching Systems
-* AI Infrastructure
-* Performance Engineering
-* Reliability Engineering
-* LLM Infrastructure
-* Developer Infrastructure
+**Stack:** Python • PostgreSQL • Docker • Prometheus • Grafana • OpenTelemetry
 
 ---
 
-# ✍️ Writing
+### 🧠 SmartEvict
+*Learned semantic cache eviction for LLM applications.*
 
-I enjoy documenting experiments, engineering investigations, and the findings they produce.
+Investigates lightweight, learned eviction policies against classical heuristics (LRU, FIFO, GDSF) using reproducible experiments on real conversational workloads.
 
-I primarily write about:
-
-* Distributed systems
-* Databases & caching
-* AI infrastructure
-* Performance engineering
-* Reliability engineering
-* Software engineering
-
-📚 Medium
-
-https://pandeyshikha075.medium.com
+- 📦 [Repository](https://github.com/Shikha-code36/SmartEvict-Semantic-Cache-Eviction)
+- 📖 [Research artifact (DOI)](https://zenodo.org/records/21643364)
 
 ---
 
-# 🛠️ Technologies
+## 🔬 Areas of Interest
 
-### Languages
-
-Python • Go • C++ • JavaScript
-
-### Backend
-
-FastAPI • Flask • PostgreSQL • Redis • Kafka • RabbitMQ
-
-### Infrastructure
-
-Docker • AWS • GCP • Prometheus • Grafana • OpenTelemetry
-
-### AI
-
-OpenAI • Claude • LangChain • Hugging Face • pgvector
+Distributed Systems • Databases • Caching Systems • AI Infrastructure • Performance Engineering • Reliability Engineering • LLM Infrastructure • Developer Infrastructure
 
 ---
 
-# 🌱 Currently Exploring
+## ✍️ Writing
 
-* Database internals
-* Cache design & eviction algorithms
-* Distributed systems internals
-* AI serving infrastructure
-* Reliability engineering
-* Experimentation frameworks
+I write about the experiments, investigations, and findings behind my systems work — distributed systems, databases and caching, AI infrastructure, performance, reliability, and software engineering more broadly.
+
+📚 [Medium](https://pandeyshikha075.medium.com)
 
 ---
 
-# 📫 Connect
+## 🛠️ Technologies
 
-🌐 Portfolio
-https://pandeyshikha.me/
-
-💼 LinkedIn
-https://www.linkedin.com/in/36-shikha-pandey/
-
-📝 Medium
-https://pandeyshikha075.medium.com
-
-📧 Email
-[shikha.py36@gmail.com](mailto:shikha.py36@gmail.com)
+**Languages:** Python • Go • C++ • JavaScript
+**Backend:** FastAPI • Flask • PostgreSQL • Redis • Kafka • RabbitMQ
+**Infrastructure:** Docker • AWS • GCP • Prometheus • Grafana • OpenTelemetry
+**AI:** OpenAI • Claude • LangChain • Hugging Face • pgvector
 
 ---
 
-> **Build systems. Run experiments. Produce evidence. Share findings.**
+## 🌱 Currently Exploring
+
+Cache design & eviction algorithms • Consensus & replication protocols • Distributed systems internals • AI serving infrastructure • Experimentation frameworks
+
+---
+
+## 📫 Connect
+
+🌐 [Portfolio](https://pandeyshikha.me/) • 💼 [LinkedIn](https://www.linkedin.com/in/36-shikha-pandey/) • 📝 [Medium](https://pandeyshikha075.medium.com) • 📧 [shikha.py36@gmail.com](mailto:shikha.py36@gmail.com)
+
+---
+
+<p align="center"><strong>Build systems. Run experiments. Produce evidence. Share findings.</strong></p>
