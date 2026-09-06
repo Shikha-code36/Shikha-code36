@@ -23,23 +23,28 @@ I like understanding systems from first principles: how they behave under load, 
 
 ## 🔧 Systems & Infra Contributions
 
-*As of August 2026: 5 merged, 5 in review, across 4 repositories.*
+I contribute to production infrastructure projects, primarily around **correctness, crash-safety, reliability, and performance** in databases, caching, and distributed systems.
 
-I contribute correctness, crash-safety, and observability fixes to production cache, database, and search infrastructure.
+### Merged Contributions
 
-**dragonflydb/dragonfly** — *5 merged*
-Crash prevention, RSS/OOM test stability, cluster slot-migration correctness, RENAME data-loss prevention.
+**dragonflydb/dragonfly**
 
-**valkey-io/valkey** — *in review*
-Fixed replica full-resync failing after restart with AOF-only persistence. Fixed an O(class size × string length) DoS in glob pattern matching.
+* Crash prevention and stability fixes
+* Cluster slot-migration correctness
+* RENAME data-loss prevention
+* RSS/OOM test stability
+* Replication and storage-related fixes
 
-**valkey-io/valkey-search** — *in review*
-Fixed stale RDB restore counters causing a permanently inflated index metric.
+**BetterDB-inc/monitor**
 
-**facebook/rocksdb** — *in review*
-Fixed a native memory leak in RocksJava's thread-local comparator buffer handling.
+* Reliability and correctness improvements
+
+I also have **many open pull requests and ongoing contributions across other infrastructure repositories**, including **Valkey, Valkey Search, and RocksDB**, covering areas such as replication, persistence, pattern matching, index correctness, and native memory management.
 
 → [All pull requests](https://github.com/search?q=author%3AShikha-code36+is%3Apr&type=pullrequests)
+→ [Dragonfly commits](https://github.com/dragonflydb/dragonfly/commits?author=Shikha-code36)
+→ [BetterDB Monitor commits](https://github.com/BetterDB-inc/monitor/commits?author=Shikha-code36)
+
 
 ---
 
